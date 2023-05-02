@@ -1,0 +1,12 @@
+2023-05-02 11:00:05 Name function: hello_world. Arguments: ((), {}). Return object: Hello World.
+2023-05-02 11:00:05 Name function: summator. Arguments: ((2, 2), {}). Return object: 4.
+2023-05-02 11:00:05 Name function: div. Arguments: ((6, 2), {}). Return object: 3.0.
+2023-05-02 11:00:05 Name function: summator. Arguments: ((4.3,), {'b': 2.2}). Return object: 6.5.
+2023-05-02 11:00:05 Name function: hello_world. Arguments: ((), {}). Return object: Hello World.
+2023-05-02 11:00:05 Name function: summator. Arguments: ((2, 2), {}). Return object: 4.
+2023-05-02 11:00:05 Name function: div. Arguments: ((6, 2), {}). Return object: 3.0.
+2023-05-02 11:00:05 Name function: summator. Arguments: ((4.3,), {'b': 2.2}). Return object: 6.5.
+2023-05-02 11:00:05 Name function: hello_world. Arguments: ((), {}). Return object: Hello World.
+2023-05-02 11:00:05 Name function: summator. Arguments: ((2, 2), {}). Return object: 4.
+2023-05-02 11:00:05 Name function: div. Arguments: ((6, 2), {}). Return object: 3.0.
+2023-05-02 11:00:05 Name function: summator. Arguments: ((4.3,), {'b': 2.2}). Return object: 6.5.
